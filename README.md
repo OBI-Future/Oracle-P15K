@@ -25,9 +25,11 @@ _The first attempt to apply diffusion model in realistic and controllable OBI ge
   <sup>2</sup>Institute of Image Communication and Information Processing, Shanghai Jiao Tong University
   <br>
   <sup>3</sup>School of Humanities, Shanghai Jiao Tong University
-  
+  <br>
   <sup>*</sup>Both authors contributed equally to this research
   <sup>&dagger;</sup>Corresponding authors 
+  <br>
+  <br>
 </div>   
 
 <!-- 中文版速递：[知乎](https://zhuanlan.zhihu.com/p/10309270594) -->
