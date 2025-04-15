@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/OBI-Future/Oracle-P15K"><img src="https://visitor-badge.laobi.icu/badge?page_id=OBI-Future/Oracle-P15K"/></a>
     <a href="https://github.com/OBI-Future/Oracle-P15K"><img src="https://img.shields.io/github/stars/OBI-Future/Oracle-P15K"/></a>
-    <!-- <a href="https://arxiv.org/abs/2412.01175"><img src="https://img.shields.io/badge/Arxiv-2412.01175-red"/></a> -->
+    <a href="https://arxiv.org/abs/2504.09555"><img src="https://img.shields.io/badge/Arxiv-2504.09555-yellow"/></a>
     <a href="https://github.com/OBI-Future/Oracle-P15K"><img src="https://img.shields.io/badge/Awesome-Oracle--P15K-green"/></a>
 </div>
 
@@ -131,16 +131,19 @@ Please contact the first author of this paper for queries.
 - Jinhao Li, `lomljhoax@stu.ecnu.edu.cn`
 
 ## Citation 📎
-<!-- If you find our work interesting, please feel free to cite our paper:
+
+If you find our work interesting, please feel free to cite our paper:
 ```
-@article{chen2024obi,
-  title={OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?},
-  author={Chen, Zijian and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
-  journal={arXiv preprint arXiv:2412.01175},
-  year={2024}
+@misc{li2025mitigatinglongtaildistributionoracle,
+      title={Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark}, 
+      author={Jinhao Li and Zijian Chen and Runze Dong and Tingzhu Chen and Changbo Wang and Guangtao Zhai},
+      year={2025},
+      eprint={2504.09555},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.09555}, 
 }
-``` -->
-Coming soon...
+```
 
 ## <a name="acknowledgements"></a> Acknowledgements 🏆
 
